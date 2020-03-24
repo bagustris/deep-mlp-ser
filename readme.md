@@ -10,7 +10,7 @@ Email: bagus@ep.it.ac.id
 
 This paper has been submitted for publication in *EUSIPCO 2020*.
 
-![](fig/deep_mlp.pdf)
+![](fig/deep_mlp.png)
 
 *Architecture of proposed method.*
 
