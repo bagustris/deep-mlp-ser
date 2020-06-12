@@ -1,8 +1,8 @@
 # Repository for my paper: *Deep Multilayer Perceptrons for Dimensional Speech Emotion Recognition*
 
 by
-Bagus Tris Atmaja
-Masato Akagi,
+Bagus Tris Atmaja,    
+Masato Akagi  
 Email: bagus@ep.it.ac.id
 
 > This is a repository for above paper consist of 
