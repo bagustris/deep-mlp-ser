@@ -8,7 +8,7 @@ Email: bagus@ep.it.ac.id
 > This is a repository for above paper consist of 
 > Python codes, Latex codes, and figures.
 
-This paper has been submitted for publication in *EUSIPCO 2020*.
+This paper has been accepted for publication in *APSIPA ASC 2020*.
 
 ![](fig/deep_mlp.png)
 
