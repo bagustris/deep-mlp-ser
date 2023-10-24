@@ -19,7 +19,7 @@ This paper has been accepted for publication in *APSIPA ASC 2020*.
 
 > Modern deep learning architectures are ordinarily
 performed on high-performance computing facilities due to the
-large size of the input features and complexity of its model.
+large size of the input features and the complexity of its model.
 This paper proposes traditional multilayer perceptrons (MLP)
 with deep layers and small input size to tackle that computation
 requirement limitation. The result shows that our proposed deep
@@ -82,7 +82,7 @@ Before running any code you must activate the conda environment:
 
     source activate REPO_NAME
 
-To reproduce result in , run each related Python file.  
+To reproduce the result, run each related Python file.  
 
 
 ## License
@@ -91,9 +91,9 @@ All source code is made available under a BSD 3-clause license. You can freely
 use and modify the code, without warranty, so long as you provide attribution
 to the authors. See `LICENSE.md` for the full license text.
 
-The manuscript text is not open source. The authors reserve the rights to the
-article content, which is currently submitted for publication in the
-EUSIPCO 2020.
+The manuscript text is not public, but according to IEEE. The authors reserve the right to the
+article content, which is accepted for publication in the
+APSIPA 2020.
 
 
 ## Citation
